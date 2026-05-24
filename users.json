@@ -1,0 +1,46 @@
+[
+  {
+    "firstName": "s1",
+    "lastName": "daf",
+    "username": "s1",
+    "email": "s@sfsf.com",
+    "password": "12",
+    "phone": "0987609876",
+    "address": "efdwfsd",
+    "dob": "2006-05-24",
+    "gender": "Female"
+  },
+  {
+    "firstName": "s1",
+    "lastName": "daf",
+    "username": "s1",
+    "email": "s@sfsf.com",
+    "password": "12",
+    "phone": "0987609876",
+    "address": "efdwfsd",
+    "dob": "2006-05-24",
+    "gender": "Female"
+  },
+  {
+    "firstName": "s",
+    "lastName": "as",
+    "username": "ass",
+    "email": "ass@com.com",
+    "password": "123",
+    "phone": "987654321",
+    "address": "pune",
+    "dob": "2026-05-07",
+    "gender": "Other"
+  },
+  {
+    "firstName": "admin",
+    "lastName": "xyz",
+    "username": "admin1",
+    "email": "admin@email.com",
+    "password": "1234",
+    "phone": "9876987667",
+    "address": "Pune",
+    "dob": "2000-06-06",
+    "gender": "Male"
+  }
+]
