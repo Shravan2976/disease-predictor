@@ -159,7 +159,6 @@
   "Emerging Cardiovascular Diseases": ["chest pain", "shortness of breath", "fatigue", "dizziness", "nausea"],
   "Emerging Metabolic Diseases": ["weight gain", "fatigue", "shortness of breath", "joint pain", "snoring"],
   "Emerging Autoimmune Diseases": ["joint pain", "fatigue", "rash", "fever", "hair loss"],
-  "Emerging Genetic Diseases": ["fatigue", "weakness", "pale skin", "shortness of breath", "dizziness"],
-  "Emerging Rare Diseases": ["varies widely", "often misdiagnosed", "may have unique symptoms", "can be chronic", "may require specialized care"]
+  "Emerging Genetic Diseases": ["fatigue", "weakness", "pale skin", "shortness of breath", "dizziness"]
 }
-  
+
